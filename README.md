@@ -1,5 +1,6 @@
-#Link: https://the-wild-oasis-app-by-julia.netlify.app
-#The Website "the-wild-oasis" use next technologies:
+Link to "the-wild-oasis": https://the-wild-oasis-app-by-julia.netlify.app
+
+The website contains the following technologies:
 - Styled Components
 - React Query
 - React Hook Forms
