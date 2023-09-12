@@ -4,7 +4,7 @@ The website contains the following technologies:
 - Styled Components
 - React Query
 - React Hook Forms
-- React Ruter
+- React Router
 - Service Super Base
 - Context API
 - React Icons
